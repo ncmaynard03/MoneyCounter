@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter {
+  display: flex;
+}
+
+.counter h1,
+h2 {
+  margin: 10px;
+}
+
+.counter input {
+  font-size: 40px;
+  width: 70px;
+}
